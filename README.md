@@ -15,3 +15,7 @@ Run tests using the command:
 ```bash
 $ npm run test-watch
 ```
+
+Notes:
+chai is assertion library.
+mocha is testing framework
